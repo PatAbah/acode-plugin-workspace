@@ -6,7 +6,7 @@
   let Url = acode.require("Url");
   let toast = acode.require("toast");
   let loader = acode.require("loader");
-  let fs = acode.require("fsOperation");
+  let fs = acode.require("fs");
   let helpers = acode.require("helpers");
   let openFolder = acode.require("openFolder");
   let fileBrowser = acode.require("fileBrowser");
